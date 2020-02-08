@@ -1,0 +1,13 @@
+[package]
+name = "poetry-book-web"
+version = "0.1.0"
+authors = ["MarcoIeni"]
+edition = "2018"
+description = "poetry-book web interface. Create a poetry book in latex from your browser."
+repository = "https://github.com/poetry-book/poetry-book-web"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+keywords = ["poetry", "book", "poem", "verse", "latex"]
+
+[dependencies]
+poetry-book = "0.1.1"
